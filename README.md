@@ -15,6 +15,22 @@ the release apk will be created under:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 
+## ios
+
+ios builds must be made on macos with xcode installed.
+
+```bash
+flutter pub get
+flutter build ios --release
+```
+
+to run in the ios simulator on macos:
+
+```bash
+open -a Simulator
+flutter run
+```
+
 ## notes
 
 - no login, ads, tracking, subscriptions, or internet access are required.
