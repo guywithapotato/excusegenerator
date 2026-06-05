@@ -1,6 +1,6 @@
 # bahane üretici 3000
 
-offline-first flutter android app for generating funny excuses in türkçe and english.
+offline flutter android (and ios coming soon) app for generating excuses in turkish and english.
 
 ## build
 
@@ -18,6 +18,7 @@ build/app/outputs/flutter-apk/app-release.apk
 ## ios
 
 ios builds must be made on macos with xcode installed.
+(warning, probably has lots of bugs, not sure if it`ll work.)
 
 ```bash
 flutter pub get
