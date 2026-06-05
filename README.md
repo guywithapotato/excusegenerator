@@ -21,8 +21,6 @@ build/app/outputs/flutter-apk/app-release.apk
   <img src="screenshots/home.png" width="250">
   <img src="screenshots/favorites.png" width="250">
   <img src="screenshots/statistics.png" width="250">
-  <img src="screenshots/settings.png" width="250">
-  <img src="screenshots/this is probably not you are looking for.gif" width="250">
 </p>
 
 ## ios
