@@ -1,6 +1,6 @@
 # bahane üretici 3000
 
-offline flutter android (and ios coming soon) app for generating excuses in turkish and english.
+a wip offline flutter android (and ios coming soon) app for generating excuses in turkish and english
 
 ## build
 
@@ -26,7 +26,7 @@ build/app/outputs/flutter-apk/app-release.apk
 ## ios
 
 ios builds must be made on macos with xcode installed.
-(warning, probably has lots of bugs, not sure if it`ll work.)
+(warning, probably has lots of bugs, not sure if it'll work)
 
 ```bash
 flutter pub get
@@ -42,6 +42,8 @@ flutter run
 
 ## notes
 
-- no login, ads, tracking, subscriptions, or internet access are required.
+- no login, ads, tracking, subscriptions, or internet access is required (def not bc im lazy)
 - language and theme can be selected during onboarding and changed instantly in settings.
 - all app data is stored locally with shared preferences.
+
+hope u like it
